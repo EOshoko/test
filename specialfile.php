@@ -1,1 +1,1 @@
-<?='I'm special'?>
+<?='I\'m a special file'?>
